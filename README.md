@@ -1,11 +1,13 @@
 ## Olá, mundo! Meu nome é Cainã! 
 
+<div align="center">
 <a href="https://beacons.ai/caiaikkj">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=caiaikkj&rank_icon=github&show_icons=true&theme=buefy" />
 </a>
 <a href="https://beacons.ai/caiaikkj">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=caiaikkj&layout=compact&langs_count=8&card_width=320&theme=buefy" />
 </a>
+</div>
 
 <a href="https://github.com/caiaikkj/caiaikkj">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=caiaikkj&repo=caiaikkj&theme=buefy" />
