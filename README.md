@@ -1,11 +1,11 @@
 ## Olá, mundo! Meu nome é Cainã! 
 
-<div style flex-direction: column>
+<div align="center">
 <a href="https://beacons.ai/caiaikkj">
-  <img height=200 src="https://github-readme-stats.vercel.app/api?username=caiaikkj&rank_icon=github&show_icons=true&theme=buefy" />
+  <img height=200 flex-direction: column src="https://github-readme-stats.vercel.app/api?username=caiaikkj&rank_icon=github&show_icons=true&theme=buefy" />
 </a>
 <a href="https://beacons.ai/caiaikkj">
-  <img height=200 src="https://github-readme-stats.vercel.app/api/top-langs?username=caiaikkj&layout=compact&langs_count=8&card_width=320&theme=buefy" />
+  <img height=200 flex-direction: column src="https://github-readme-stats.vercel.app/api/top-langs?username=caiaikkj&layout=compact&langs_count=8&card_width=320&theme=buefy" />
 </a>
 </div>
 
