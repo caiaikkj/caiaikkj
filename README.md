@@ -24,6 +24,4 @@
 </div>
 
 ![](https://github.com/caiaikkj/snk/raw/output/github-contribution-grid-snake.svg)
-@media (prefers-color-scheme: dark)
-
 
