@@ -1,7 +1,7 @@
 ## Olá, mundo! Meu nome é Cainã! 
 
 <a href="https://beacons.ai/caiaikkj">
-  <img width=60% height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=caiaikkj&rank_icon=github&show_icons=true&theme=buefy" />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=caiaikkj&rank_icon=github&show_icons=true&theme=buefy" />
 </a>
 <a href="https://beacons.ai/caiaikkj">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=caiaikkj&layout=compact&langs_count=8&card_width=320&theme=buefy" />
@@ -29,6 +29,8 @@
   <a href = "mailto:contato.cainacauss@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/cainacauss/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
+
+###
 
 ![snake gif](https://github.com/caiaikkj/caiaikkj/blob/output/github-contribution-grid-snake.gif)
 
