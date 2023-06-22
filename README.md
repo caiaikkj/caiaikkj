@@ -8,10 +8,10 @@
 </a>
 
 <a href="https://github.com/caiaikkj/caiaikkj">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=caiaikkj&repo=caiaikkj" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=caiaikkj&repo=caiaikkj&theme=moltack" />
 </a>
 <a href="https://github.com/caiaikkj/qrcodegenerator">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=caiaikkj&repo=qrcodegenerator" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=caiaikkj&repo=qrcodegenerator&theme=moltack" />
 </a>
 
 <div style="display: inline_block"><br>
