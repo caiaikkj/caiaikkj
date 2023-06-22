@@ -23,5 +23,5 @@
   <a href="https://www.linkedin.com/in/cainacauss/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
 
-![snake gif](https://github.com/caiaikkj/caiaikkj/blob/output/github-contribution-grid-snake.gif?color_snake=#4489ec&color_dots=#2d333b,#14482e,#067238,#2dab47,#38d353)
+![snake gif](https://github.com/caiaikkj/caiaikkj/blob/output/github-contribution-grid-snake.gif)?color_snake=#4489ec&color_dots=#2d333b,#14482e,#067238,#2dab47,#38d353
 
