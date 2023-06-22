@@ -7,6 +7,13 @@
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=caiaikkj&layout=compact&langs_count=8&card_width=320&theme=moltack" />
 </a>
 
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=caiaikkj&repo=caiaikkj" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=caiaikkj&repo=qrcodegenerator" />
+</a>
+
 <div style="display: inline_block"><br>
   <img align="center" alt="Cainã-JavaScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Cainã-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
