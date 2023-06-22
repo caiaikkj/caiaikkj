@@ -1,16 +1,16 @@
 ## Olá, mundo! Meu nome é Cainã! 
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=caiaikkj&rank_icon=github&show_icons=true&theme=moltack" />
+  <img widht= 50% height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=caiaikkj&rank_icon=github&show_icons=true&theme=moltack" />
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=caiaikkj&layout=compact&langs_count=8&card_width=320&theme=moltack" />
+  <img widht= 50% height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=caiaikkj&layout=compact&langs_count=8&card_width=320&theme=moltack" />
 </a>
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
+<a href="https://github.com/caiaikkj/caiaikkj">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=caiaikkj&repo=caiaikkj" />
 </a>
-<a href="https://github.com/anuraghazra/convoychat">
+<a href="https://github.com/caiaikkj/qrcodegenerator">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=caiaikkj&repo=qrcodegenerator" />
 </a>
 
