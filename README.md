@@ -4,7 +4,7 @@
   <img widht= 40% align="center" src="https://github-readme-stats.vercel.app/api?username=caiaikkj&rank_icon=github&show_icons=true&theme=moltack" />
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
-  <img widht= 50% align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=caiaikkj&layout=compact&langs_count=8&card_width=320&theme=moltack" />
+  <img widht= 60% align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=caiaikkj&layout=compact&langs_count=8&card_width=320&theme=moltack" />
 </a>
 
 <a href="https://github.com/caiaikkj/caiaikkj">
