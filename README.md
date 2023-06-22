@@ -1,6 +1,6 @@
 ## Olá, mundo! Meu nome é Cainã! 
 
-<div align="center">
+<div style flex-direction: column>
 <a href="https://beacons.ai/caiaikkj">
   <img height=200 src="https://github-readme-stats.vercel.app/api?username=caiaikkj&rank_icon=github&show_icons=true&theme=buefy" />
 </a>
