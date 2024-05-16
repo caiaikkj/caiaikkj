@@ -1,5 +1,8 @@
-## Olá, mundo! Meu nome é Cainã! 
+## Hello, World! My name is Cainã! 
+<br />
+I'm a self-taught passionate FrontEnd developer from Brazil
 
+**About me**
 <a href="https://beacons.ai/caiaikkj">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=caiaikkj&rank_icon=github&show_icons=true&include_all_commits=true&theme=shadow_red" />
 </a>
