@@ -10,6 +10,7 @@ I'm a self-taught passionate FrontEnd developer from Brazil
   <code><img align="center" alt="Cainã-Python" height="20"src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"></code>
 </div>
 
+<br />
 <a href="https://beacons.ai/caiaikkj">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=caiaikkj&rank_icon=github&show_icons=true&include_all_commits=true&theme=shadow_red" />
 </a>
