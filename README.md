@@ -31,5 +31,3 @@
 
 ###
 
-![snake gif](https://github.com/caiaikkj/caiaikkj/blob/output/github-contribution-grid-snake.gif)
-
