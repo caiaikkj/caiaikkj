@@ -4,10 +4,10 @@ I'm a self-taught passionate FrontEnd developer from Brazil
 
 **About me**
 <div style="display: inline_block"><br>
-  <code><img align="center" alt="Cainã-JavaScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"></code>
-  <code><img align="center" alt="Cainã-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"></code>
-  <code><img align="center" alt="Cainã-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"></code>
-  <code><img align="center" alt="Cainã-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"></code>
+  <code><img align="center" alt="Cainã-JavaScript" height="20"src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"></code>
+  <code><img align="center" alt="Cainã-HTML" height="20"src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"></code>
+  <code><img align="center" alt="Cainã-CSS" height="20"src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"></code>
+  <code><img align="center" alt="Cainã-Python" height="20"src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"></code>
 </div>
 
 <a href="https://beacons.ai/caiaikkj">
