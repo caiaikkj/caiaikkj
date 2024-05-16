@@ -3,6 +3,13 @@
 I'm a self-taught passionate FrontEnd developer from Brazil
 
 **About me**
+<div style="display: inline_block"><br>
+  <code><img align="center" alt="Cainã-JavaScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"></code>
+  <code><img align="center" alt="Cainã-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"></code>
+  <code><img align="center" alt="Cainã-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"></code>
+  <code><img align="center" alt="Cainã-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"></code>
+</div>
+
 <a href="https://beacons.ai/caiaikkj">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=caiaikkj&rank_icon=github&show_icons=true&include_all_commits=true&theme=shadow_red" />
 </a>
@@ -17,13 +24,6 @@ I'm a self-taught passionate FrontEnd developer from Brazil
 <a href="https://github.com/caiaikkj/qrcodegenerator">
   <img height=100 align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=caiaikkj&repo=qrcodegenerator&theme=shadow_red" />
 </a>
-
-<div style="display: inline_block"><br>
-  <img align="center" alt="Cainã-JavaScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Cainã-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Cainã-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Cainã-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-</div>
 
 ##
 
