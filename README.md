@@ -7,6 +7,7 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=caiaikkj&layout=compact&langs_count=8&card_width=320&theme=shadow_red" />
 </a>
 
+#### Repositories
 <a href="https://github.com/caiaikkj/starbucks-study">
   <img height=100 align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=caiaikkj&repo=starbucks-study&theme=shadow_red" />
 </a>
