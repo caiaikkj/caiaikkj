@@ -1,6 +1,6 @@
 ## Hello, World! My name is Cainã! 
 <br />
-I'm a self-taught passionate FrontEnd developer from Brazil
+I'm a self-taught FrontEnd developer from Brazil
 
 **About me**
 <div style="display: inline_block"><br>
