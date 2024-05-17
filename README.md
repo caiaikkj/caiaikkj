@@ -20,10 +20,10 @@ I'm a self-taught passionate FrontEnd developer from Brazil
 
 #### Repositories
 <a href="https://github.com/caiaikkj/starbucks-study">
-  <img height=100 align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=caiaikkj&repo=starbucks-study&theme=shadow_red" />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=caiaikkj&repo=starbucks-study&theme=shadow_red" />
 </a>
 <a href="https://github.com/caiaikkj/qrcodegenerator">
-  <img height=100 align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=caiaikkj&repo=qrcodegenerator&theme=shadow_red" />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=caiaikkj&repo=qrcodegenerator&theme=shadow_red" />
 </a>
 
 ##
